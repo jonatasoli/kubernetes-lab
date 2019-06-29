@@ -1,0 +1,8 @@
+[node1]
+172.17.177.50 ansible_user=vagrant ansible_ssh_private_key_file="/home/jonatas/workspace/swarm-lab/.vagrant/machines/node1/virtualbox/private_key"
+
+[node2]
+172.17.177.52 ansible_user=vagrant ansible_ssh_private_key_file="/home/jonatas/workspace/swarm-lab/.vagrant/machines/node2/virtualbox/private_key"
+''
+[node2]
+172.17.177.54 ansible_user=vagrant ansible_ssh_private_key_file="/home/jonatas/workspace/swarm-lab/.vagrant/machines/node3/virtualbox/private_key"
